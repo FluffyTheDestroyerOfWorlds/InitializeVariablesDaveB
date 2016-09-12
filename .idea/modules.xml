@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InitializeVariablesDaveB.iml" filepath="$PROJECT_DIR$/InitializeVariablesDaveB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/initvariables/initvariables.iml" filepath="$PROJECT_DIR$/initvariables/initvariables.iml" />
+    </modules>
+  </component>
+</project>
